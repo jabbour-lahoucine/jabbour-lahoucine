@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi, I'm Lahoucine Jabbour 👋
@@ -66,5 +65,4 @@ Contributed to **Norsys Eval**, a SaaS platform for technical candidate assessme
 - **Candidate experience:** interactive exam tutorial.
 
 ---
-```
 
